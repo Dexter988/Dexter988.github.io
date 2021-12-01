@@ -7,10 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yingjian Zhuge / Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yingjian Zhuge"
+description              : &description "Yingjian Zhuge graduated from College of Electrical Engineering, Zhejiang University with a bachelor's degree in July 2021, and studied for a master's degree in the School of Information Science and Technology, ShanghaiTech University in September 2021. His research interest is the fault diagnosis of multiphase machines.
+"
 url                      : https://Dexter988.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dexter988/Dexter988.github.io"
