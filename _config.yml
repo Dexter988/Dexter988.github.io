@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yingjian Zhuge"
-  avatar           : "profile.png"
+  avatar           : "IMG_20210622_144405.jpg"
   bio              : "Yingjian Zhuge graduated from College of Electrical Engineering, Zhejiang University with a bachelor's degree in July 2021, and studied for a master's degree in the School of Information Science and Technology, ShanghaiTech University in September 2021. His research interest is the fault diagnosis of multiphase machines"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "zhugeyj@shanghaitech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
